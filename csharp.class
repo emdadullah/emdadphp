@@ -1,0 +1,9 @@
+class Dictionary {
+    
+    var $Key, $Value;
+
+    function Dictionary($k, $v) {
+        $this->Key = $k;
+        $this->Value = $v;
+    }
+}
