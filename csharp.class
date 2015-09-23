@@ -1,3 +1,7 @@
+/*
+* This class work like C# dictionary
+*/
+
 class Dictionary {
     
     var $Key, $Value;
